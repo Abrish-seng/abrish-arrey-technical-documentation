@@ -1,0 +1,8 @@
+#mainBody {
+    grid-template-columns: 300px;
+}
+
+nav#navbar {
+    display: block;
+    position: fexed;
+}
